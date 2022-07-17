@@ -1,0 +1,15 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tailwind:watch": "tailwindcss -i ./assets/css/input.css -o ./assets/css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
